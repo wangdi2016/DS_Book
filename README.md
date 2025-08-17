@@ -6,3 +6,6 @@ https://r-pkgs.org/
 
 ## R for Data Science (2nd)
 https://r4ds.hadley.nz/
+
+## R openSci
+https://devguide.ropensci.org/
