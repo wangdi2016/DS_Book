@@ -1,6 +1,9 @@
 # DS_Book
 Free online book for Data Science
 
+## renv
+https://rstudio.github.io/renv/articles/renv.html
+
 ## R packages (2nd)
 https://r-pkgs.org/
 
