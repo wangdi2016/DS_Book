@@ -12,3 +12,6 @@ https://devguide.ropensci.org/
 
 ## R quarto book
 https://quarto.org/docs/books/
+
+## R universe
+https://docs.r-universe.dev/
