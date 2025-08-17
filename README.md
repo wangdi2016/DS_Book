@@ -9,3 +9,6 @@ https://r4ds.hadley.nz/
 
 ## R openSci
 https://devguide.ropensci.org/
+
+## R quarto book
+https://quarto.org/docs/books/
